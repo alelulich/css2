@@ -1,0 +1,22 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: peachpuff;
+}
+
+h1{
+    font-style: normal;
+    font-weight: 200;
+    font-size: 120px;
+}
+p{
+    font-weight: 600;
+}
+.color-ale{
+    color: burlywood;
+}
+.identidad{
+    color: darksalmon;
+}
+.identidad2{
+    color: darkcyan;
+}
